@@ -3,3 +3,5 @@ this is aditya
 git is a version control system
 git hub is cloud based hosting services in repositories
 scm is a source code management software controlling and monitoring the repositories.
+scm is a process of tracking and controlling changes in the software .
+this is also called as version controlling
