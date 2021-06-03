@@ -1,4 +1,0 @@
-hii
-this is aditya
-git is a version control system
-
